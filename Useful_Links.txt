@@ -1,0 +1,16 @@
+uArm Resources
+===============
+
+Official Arduino Library
+https://github.com/uArm-Developer/UArmForArduino
+
+uArm Metal Getting Started Guide
+https://uarmdocs.readthedocs.io/getting_started/
+
+Arduino Library Documentation
+https://uarm-developer.github.io/UArmForArduino/
+
+Description:
+- Official Arduino library for the uArm Metal.
+- User guide for hardware setup, calibration, and operation.
+- API documentation and programming reference.
